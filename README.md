@@ -14,10 +14,6 @@ A secure and lightweight Python-based tool designed to encrypt and decrypt files
 3. Enter the file name located in the same directory.
 4. Provide your secret key.
 
-## Live Demo
-Don't want to run it locally? You can test the tool directly in your browser here:
-[Insert your Replit project link here]
-
 ## Technical Details
 - **Algorithm:** AES (Advanced Encryption Standard).
 - **Library:** `cryptography` (hazmat primitives).
